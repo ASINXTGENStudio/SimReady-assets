@@ -1,0 +1,1089 @@
+{
+ "format": "spinebot-simready-pack/1",
+ "version": "1.0.0",
+ "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+ "source": "NVIDIA SimReady assets, https://huggingface.co/datasets/nvidia/simready-assets",
+ "files_bytes": 96457342,
+ "assets": [
+  {
+   "id": "dishware_bowl_a01",
+   "name": "metal bowl",
+   "room": "kitchen",
+   "role": "grab",
+   "place": "on:counter,kitchen_island",
+   "mass_kg": 0.25,
+   "mass_us": "8.8 oz",
+   "size_m": [
+    0.1627,
+    0.1627,
+    0.0548
+   ],
+   "glb": "xr/dishware_bowl_a01.glb"
+  },
+  {
+   "id": "kitchenware_bowl_b01",
+   "name": "ceramic bowl",
+   "room": "kitchen",
+   "role": "grab",
+   "place": "on:counter,kitchen_island",
+   "mass_kg": 0.35,
+   "mass_us": "12.3 oz",
+   "size_m": [
+    0.1299,
+    0.1299,
+    0.06
+   ],
+   "glb": "xr/kitchenware_bowl_b01.glb"
+  },
+  {
+   "id": "kitchenware_bowl_c01",
+   "name": "small ceramic bowl",
+   "room": "kitchen",
+   "role": "grab",
+   "place": "on:counter,kitchen_island",
+   "mass_kg": 0.35,
+   "mass_us": "12.3 oz",
+   "size_m": [
+    0.1467,
+    0.1467,
+    0.0629
+   ],
+   "glb": "xr/kitchenware_bowl_c01.glb"
+  },
+  {
+   "id": "dishware_mug_a01",
+   "name": "metal mug",
+   "room": "kitchen",
+   "role": "grab",
+   "place": "on:counter,kitchen_island",
+   "mass_kg": 0.25,
+   "mass_us": "8.8 oz",
+   "size_m": [
+    0.1144,
+    0.0902,
+    0.08
+   ],
+   "glb": "xr/dishware_mug_a01.glb"
+  },
+  {
+   "id": "kitchenware_mug_a01",
+   "name": "ceramic mug",
+   "room": "kitchen",
+   "role": "grab",
+   "place": "on:counter,kitchen_island",
+   "mass_kg": 0.33,
+   "mass_us": "11.6 oz",
+   "size_m": [
+    0.1179,
+    0.1349,
+    0.0635
+   ],
+   "glb": "xr/kitchenware_mug_a01.glb"
+  },
+  {
+   "id": "kitchenware_mug_b01",
+   "name": "tall ceramic mug",
+   "room": "kitchen",
+   "role": "grab",
+   "place": "on:counter,kitchen_island",
+   "mass_kg": 0.33,
+   "mass_us": "11.6 oz",
+   "size_m": [
+    0.0876,
+    0.1276,
+    0.1004
+   ],
+   "glb": "xr/kitchenware_mug_b01.glb"
+  },
+  {
+   "id": "kitchenware_cup_a01",
+   "name": "plastic cup",
+   "room": "kitchen",
+   "role": "grab",
+   "place": "on:counter,kitchen_island",
+   "mass_kg": 0.04,
+   "mass_us": "1.4 oz",
+   "size_m": [
+    0.0807,
+    0.0807,
+    0.1256
+   ],
+   "glb": "xr/kitchenware_cup_a01.glb"
+  },
+  {
+   "id": "kitchenware_cup_b01",
+   "name": "short plastic cup",
+   "room": "kitchen",
+   "role": "grab",
+   "place": "on:counter,kitchen_island",
+   "mass_kg": 0.04,
+   "mass_us": "1.4 oz",
+   "size_m": [
+    0.0848,
+    0.0848,
+    0.1048
+   ],
+   "glb": "xr/kitchenware_cup_b01.glb"
+  },
+  {
+   "id": "dishware_glass_8oz_a01",
+   "name": "8 oz glass",
+   "room": "kitchen",
+   "role": "grab",
+   "place": "on:counter,kitchen_island",
+   "mass_kg": 0.2,
+   "mass_us": "7.1 oz",
+   "size_m": [
+    0.0662,
+    0.0662,
+    0.1004
+   ],
+   "glb": "xr/dishware_glass_8oz_a01.glb"
+  },
+  {
+   "id": "dishware_glass_tumbler_a01",
+   "name": "tumbler glass",
+   "room": "kitchen",
+   "role": "grab",
+   "place": "on:counter,kitchen_island",
+   "mass_kg": 0.25,
+   "mass_us": "8.8 oz",
+   "size_m": [
+    0.0797,
+    0.0797,
+    0.0851
+   ],
+   "glb": "xr/dishware_glass_tumbler_a01.glb"
+  },
+  {
+   "id": "dishware_plastic_bigPlate_a01",
+   "name": "big plastic plate",
+   "room": "kitchen",
+   "role": "grab",
+   "place": "on:counter,kitchen_island",
+   "mass_kg": 0.1859,
+   "mass_us": "6.6 oz",
+   "size_m": [
+    0.172,
+    0.177,
+    0.0256
+   ],
+   "glb": "xr/dishware_plastic_bigPlate_a01.glb"
+  },
+  {
+   "id": "dishware_plastic_smallPlate_a01",
+   "name": "small plastic plate",
+   "room": "kitchen",
+   "role": "grab",
+   "place": "on:counter,kitchen_island",
+   "mass_kg": 0.0845,
+   "mass_us": "3.0 oz",
+   "size_m": [
+    0.0992,
+    0.0992,
+    0.0455
+   ],
+   "glb": "xr/dishware_plastic_smallPlate_a01.glb"
+  },
+  {
+   "id": "kitchenware_fork_a01",
+   "name": "fork",
+   "room": "kitchen",
+   "role": "grab",
+   "place": "on:counter,kitchen_island",
+   "mass_kg": 0.05,
+   "mass_us": "1.8 oz",
+   "size_m": [
+    0.025,
+    0.2,
+    0.0231
+   ],
+   "glb": "xr/kitchenware_fork_a01.glb"
+  },
+  {
+   "id": "kitchenware_fork_b01",
+   "name": "steel fork",
+   "room": "kitchen",
+   "role": "grab",
+   "place": "on:counter,kitchen_island",
+   "mass_kg": 0.045,
+   "mass_us": "1.6 oz",
+   "size_m": [
+    0.165,
+    0.0213,
+    0.0191
+   ],
+   "glb": "xr/kitchenware_fork_b01.glb"
+  },
+  {
+   "id": "kitchenware_spoon_b01",
+   "name": "steel spoon",
+   "room": "kitchen",
+   "role": "grab",
+   "place": "on:counter,kitchen_island",
+   "mass_kg": 0.045,
+   "mass_us": "1.6 oz",
+   "size_m": [
+    0.035,
+    0.191,
+    0.0136
+   ],
+   "glb": "xr/kitchenware_spoon_b01.glb"
+  },
+  {
+   "id": "kitchenware_spoon_c01",
+   "name": "wooden spoon",
+   "room": "kitchen",
+   "role": "grab",
+   "place": "on:counter,kitchen_island",
+   "mass_kg": 0.03,
+   "mass_us": "1.1 oz",
+   "size_m": [
+    0.0389,
+    0.2245,
+    0.0134
+   ],
+   "glb": "xr/kitchenware_spoon_c01.glb"
+  },
+  {
+   "id": "kitchenware_knife_a01",
+   "name": "kitchen knife",
+   "room": "kitchen",
+   "role": "grab",
+   "place": "on:counter,kitchen_island",
+   "mass_kg": 0.1,
+   "mass_us": "3.5 oz",
+   "size_m": [
+    0.0382,
+    0.3302,
+    0.0244
+   ],
+   "glb": "xr/kitchenware_knife_a01.glb"
+  },
+  {
+   "id": "kitchenware_spatula_b01",
+   "name": "wooden spatula",
+   "room": "kitchen",
+   "role": "grab",
+   "place": "on:counter,kitchen_island",
+   "mass_kg": 0.06,
+   "mass_us": "2.1 oz",
+   "size_m": [
+    0.0558,
+    0.3003,
+    0.0061
+   ],
+   "glb": "xr/kitchenware_spatula_b01.glb"
+  },
+  {
+   "id": "kitchenware_ladle_a01",
+   "name": "ladle",
+   "room": "kitchen",
+   "role": "grab",
+   "place": "on:counter,kitchen_island",
+   "mass_kg": 0.1,
+   "mass_us": "3.5 oz",
+   "size_m": [
+    0.0709,
+    0.3161,
+    0.0726
+   ],
+   "glb": "xr/kitchenware_ladle_a01.glb"
+  },
+  {
+   "id": "kitchenware_pan_a01",
+   "name": "frying pan",
+   "room": "kitchen",
+   "role": "grab",
+   "place": "on:counter,kitchen_island",
+   "mass_kg": 1.2,
+   "mass_us": "2.6 lb",
+   "size_m": [
+    0.2593,
+    0.431,
+    0.0445
+   ],
+   "glb": "xr/kitchenware_pan_a01.glb"
+  },
+  {
+   "id": "kitchenware_pan_b01",
+   "name": "deep pan",
+   "room": "kitchen",
+   "role": "grab",
+   "place": "on:counter,kitchen_island",
+   "mass_kg": 1.4,
+   "mass_us": "3.1 lb",
+   "size_m": [
+    0.2704,
+    0.4449,
+    0.0708
+   ],
+   "glb": "xr/kitchenware_pan_b01.glb"
+  },
+  {
+   "id": "kitchenware_cuttingBoard_a01",
+   "name": "cutting board",
+   "room": "kitchen",
+   "role": "grab",
+   "place": "on:counter,kitchen_island",
+   "mass_kg": 1.6533,
+   "mass_us": "3.6 lb",
+   "size_m": [
+    0.4,
+    0.2194,
+    0.0143
+   ],
+   "glb": "xr/kitchenware_cuttingBoard_a01.glb"
+  },
+  {
+   "id": "kitchenware_tray_a01",
+   "name": "tray",
+   "room": "kitchen",
+   "role": "grab",
+   "place": "on:counter,kitchen_island",
+   "mass_kg": 0.8259,
+   "mass_us": "1.8 lb",
+   "size_m": [
+    0.2673,
+    0.4497,
+    0.0714
+   ],
+   "glb": "xr/kitchenware_tray_a01.glb"
+  },
+  {
+   "id": "kitchenware_jug_a01",
+   "name": "glass jug",
+   "room": "kitchen",
+   "role": "grab",
+   "place": "on:counter,kitchen_island",
+   "mass_kg": 0.9,
+   "mass_us": "2.0 lb",
+   "size_m": [
+    0.1002,
+    0.1645,
+    0.1259
+   ],
+   "glb": "xr/kitchenware_jug_a01.glb"
+  },
+  {
+   "id": "kitchenware_kettle_a01",
+   "name": "kettle",
+   "room": "kitchen",
+   "role": "grab",
+   "place": "on:counter,kitchen_island",
+   "mass_kg": 1.0,
+   "mass_us": "2.2 lb",
+   "size_m": [
+    0.1575,
+    0.2225,
+    0.2509
+   ],
+   "glb": "xr/kitchenware_kettle_a01.glb"
+  },
+  {
+   "id": "utensil_spoon_wooden_a01",
+   "name": "wooden cooking spoon",
+   "room": "kitchen",
+   "role": "grab",
+   "place": "on:counter,kitchen_island",
+   "mass_kg": 0.03,
+   "mass_us": "1.1 oz",
+   "size_m": [
+    0.2251,
+    0.0457,
+    0.0143
+   ],
+   "glb": "xr/utensil_spoon_wooden_a01.glb"
+  },
+  {
+   "id": "utensil_spatula_silicone_a01",
+   "name": "silicone spatula",
+   "room": "kitchen",
+   "role": "grab",
+   "place": "on:counter,kitchen_island",
+   "mass_kg": 0.128,
+   "mass_us": "4.5 oz",
+   "size_m": [
+    0.2948,
+    0.0655,
+    0.0138
+   ],
+   "glb": "xr/utensil_spatula_silicone_a01.glb"
+  },
+  {
+   "id": "cleaning_sponge_b01",
+   "name": "sponge",
+   "room": "kitchen",
+   "role": "grab",
+   "place": "on:counter,kitchen_island",
+   "mass_kg": 0.021,
+   "mass_us": "0.7 oz",
+   "size_m": [
+    0.0707,
+    0.1006,
+    0.0329
+   ],
+   "glb": "xr/cleaning_sponge_b01.glb"
+  },
+  {
+   "id": "cleaning_dishSoap_a01",
+   "name": "dish soap bottle",
+   "room": "kitchen",
+   "role": "grab",
+   "place": "on:counter,kitchen_island",
+   "mass_kg": 0.5,
+   "mass_us": "1.1 lb",
+   "size_m": [
+    0.0663,
+    0.1143,
+    0.2709
+   ],
+   "glb": "xr/cleaning_dishSoap_a01.glb"
+  },
+  {
+   "id": "cleaning_towel_a01",
+   "name": "kitchen towel",
+   "room": "kitchen",
+   "role": "grab",
+   "place": "on:counter,kitchen_island",
+   "mass_kg": 0.1,
+   "mass_us": "3.5 oz",
+   "size_m": [
+    0.2403,
+    0.1475,
+    0.0809
+   ],
+   "glb": "xr/cleaning_towel_a01.glb"
+  },
+  {
+   "id": "consumable_paperTowel_roll_a01",
+   "name": "paper towel roll",
+   "room": "kitchen",
+   "role": "grab",
+   "place": "on:counter,kitchen_island",
+   "mass_kg": 0.2,
+   "mass_us": "7.1 oz",
+   "size_m": [
+    0.1238,
+    0.1242,
+    0.2306
+   ],
+   "glb": "xr/consumable_paperTowel_roll_a01.glb"
+  },
+  {
+   "id": "food_produce_apple_b01",
+   "name": "apple",
+   "room": "kitchen",
+   "role": "grab",
+   "place": "on:counter,kitchen_island",
+   "mass_kg": 0.1598,
+   "mass_us": "5.6 oz",
+   "size_m": [
+    0.07,
+    0.0668,
+    0.0683
+   ],
+   "glb": "xr/food_produce_apple_b01.glb"
+  },
+  {
+   "id": "food_produce_banana_a01",
+   "name": "banana",
+   "room": "kitchen",
+   "role": "grab",
+   "place": "on:counter,kitchen_island",
+   "mass_kg": 0.12,
+   "mass_us": "4.2 oz",
+   "size_m": [
+    0.116,
+    0.1622,
+    0.0316
+   ],
+   "glb": "xr/food_produce_banana_a01.glb"
+  },
+  {
+   "id": "food_canned_soup_a01",
+   "name": "can of soup",
+   "room": "kitchen",
+   "role": "grab",
+   "place": "on:counter,kitchen_island",
+   "mass_kg": 0.43,
+   "mass_us": "15.2 oz",
+   "size_m": [
+    0.0877,
+    0.0877,
+    0.1133
+   ],
+   "glb": "xr/food_canned_soup_a01.glb"
+  },
+  {
+   "id": "food_processed_milk_a01",
+   "name": "milk carton",
+   "room": "kitchen",
+   "role": "grab",
+   "place": "on:counter,kitchen_island",
+   "mass_kg": 1.0,
+   "mass_us": "2.2 lb",
+   "size_m": [
+    0.0817,
+    0.0817,
+    0.2647
+   ],
+   "glb": "xr/food_processed_milk_a01.glb"
+  },
+  {
+   "id": "food_processed_boxedCereal_d01",
+   "name": "cereal box",
+   "room": "kitchen",
+   "role": "grab",
+   "place": "on:counter,kitchen_island",
+   "mass_kg": 0.4,
+   "mass_us": "14.1 oz",
+   "size_m": [
+    0.0709,
+    0.1819,
+    0.3181
+   ],
+   "glb": "xr/food_processed_boxedCereal_d01.glb"
+  },
+  {
+   "id": "appliance_toaster_a01",
+   "name": "toaster",
+   "room": "kitchen",
+   "role": "free",
+   "place": "on:counter",
+   "mass_kg": 1.4918,
+   "mass_us": "3.3 lb",
+   "size_m": [
+    0.3066,
+    0.1549,
+    0.179
+   ],
+   "glb": "xr/appliance_toaster_a01.glb"
+  },
+  {
+   "id": "appliance_refrigerator_a01",
+   "name": "refrigerator",
+   "room": "kitchen",
+   "role": "fixture",
+   "place": "replace:fridge",
+   "mass_kg": 154.354,
+   "mass_us": "340.3 lb",
+   "size_m": [
+    0.7357,
+    0.9066,
+    1.7348
+   ],
+   "glb": "xr/appliance_refrigerator_a01.glb"
+  },
+  {
+   "id": "appliance_dishwasher_a01",
+   "name": "dishwasher",
+   "room": "kitchen",
+   "role": "fixture",
+   "place": "replace:dishwasher",
+   "mass_kg": 45.0,
+   "mass_us": "99.2 lb",
+   "size_m": [
+    0.7207,
+    0.6149,
+    0.8744
+   ],
+   "glb": "xr/appliance_dishwasher_a01.glb"
+  },
+  {
+   "id": "fixture_sink_basin_a01",
+   "name": "sink basin",
+   "room": "kitchen",
+   "role": "fixture",
+   "place": "inset:sink",
+   "mass_kg": 10.0,
+   "mass_us": "22.0 lb",
+   "size_m": [
+    0.4909,
+    0.7198,
+    0.2242
+   ],
+   "glb": "xr/fixture_sink_basin_a01.glb"
+  },
+  {
+   "id": "fixture_counter_a01",
+   "name": "counter with drawers",
+   "room": "kitchen",
+   "role": "fixture",
+   "place": "floor",
+   "mass_kg": 356.889,
+   "mass_us": "786.8 lb",
+   "size_m": [
+    0.6797,
+    3.0226,
+    0.9271
+   ],
+   "glb": "xr/fixture_counter_a01.glb"
+  },
+  {
+   "id": "fixture_cabinet_a01",
+   "name": "base cabinet",
+   "room": "kitchen",
+   "role": "fixture",
+   "place": "replace:counter",
+   "mass_kg": 25.2409,
+   "mass_us": "55.6 lb",
+   "size_m": [
+    0.4052,
+    0.7636,
+    0.762
+   ],
+   "glb": "xr/fixture_cabinet_a01.glb"
+  },
+  {
+   "id": "toilet_a01",
+   "name": "toilet",
+   "room": "bathroom",
+   "role": "fixture",
+   "place": "replace:toilet",
+   "mass_kg": 18.8621,
+   "mass_us": "41.6 lb",
+   "size_m": [
+    0.7055,
+    0.4051,
+    1.0383
+   ],
+   "glb": "xr/toilet_a01.glb"
+  },
+  {
+   "id": "fauset_bathroom_a01",
+   "name": "bathroom faucet",
+   "room": "bathroom",
+   "role": "fixture",
+   "place": "on:vanity",
+   "mass_kg": 1.9745,
+   "mass_us": "4.4 lb",
+   "size_m": [
+    0.1597,
+    0.0452,
+    0.2307
+   ],
+   "glb": "xr/fauset_bathroom_a01.glb"
+  },
+  {
+   "id": "mirror_bathroom_a01",
+   "name": "bathroom mirror",
+   "room": "bathroom",
+   "role": "decor",
+   "place": "wall:vanity",
+   "mass_kg": 14.1849,
+   "mass_us": "31.3 lb",
+   "size_m": [
+    0.0361,
+    0.8,
+    0.5
+   ],
+   "glb": "xr/mirror_bathroom_a01.glb"
+  },
+  {
+   "id": "fixture_toiletPaperHolder_double_a01",
+   "name": "toilet paper holder",
+   "room": "bathroom",
+   "role": "decor",
+   "place": "wall:toilet",
+   "mass_kg": 1.0,
+   "mass_us": "2.2 lb",
+   "size_m": [
+    0.1508,
+    0.4516,
+    0.0996
+   ],
+   "glb": "xr/fixture_toiletPaperHolder_double_a01.glb"
+  },
+  {
+   "id": "cleaning_barSoap_a01",
+   "name": "bar of soap",
+   "room": "bathroom",
+   "role": "grab",
+   "place": "on:vanity",
+   "mass_kg": 0.12,
+   "mass_us": "4.2 oz",
+   "size_m": [
+    0.06,
+    0.0938,
+    0.0325
+   ],
+   "glb": "xr/cleaning_barSoap_a01.glb"
+  },
+  {
+   "id": "cleaning_soapDispenser_a01",
+   "name": "soap dispenser",
+   "room": "bathroom",
+   "role": "grab",
+   "place": "on:vanity",
+   "mass_kg": 0.35,
+   "mass_us": "12.3 oz",
+   "size_m": [
+    0.0751,
+    0.0695,
+    0.1817
+   ],
+   "glb": "xr/cleaning_soapDispenser_a01.glb"
+  },
+  {
+   "id": "consumable_microfiber_towel_folded_large_a01",
+   "name": "folded towel",
+   "room": "bathroom",
+   "role": "grab",
+   "place": "on:vanity,hamper",
+   "mass_kg": 0.2102,
+   "mass_us": "7.4 oz",
+   "size_m": [
+    0.4093,
+    0.2093,
+    0.0172
+   ],
+   "glb": "xr/consumable_microfiber_towel_folded_large_a01.glb"
+  },
+  {
+   "id": "consumable_microfiber_towel_wrinkled_b01",
+   "name": "wrinkled towel",
+   "room": "bathroom",
+   "role": "grab",
+   "place": "on:hamper,vanity",
+   "mass_kg": 0.2063,
+   "mass_us": "7.3 oz",
+   "size_m": [
+    0.4064,
+    0.3391,
+    0.0337
+   ],
+   "glb": "xr/consumable_microfiber_towel_wrinkled_b01.glb"
+  },
+  {
+   "id": "bedding_a01",
+   "name": "bedding",
+   "room": "bedroom",
+   "role": "decor",
+   "place": "on:bed",
+   "mass_kg": 3.7754,
+   "mass_us": "8.3 lb",
+   "size_m": [
+    2.0318,
+    0.8699,
+    0.3993
+   ],
+   "glb": "xr/bedding_a01.glb"
+  },
+  {
+   "id": "table_bedside_b01",
+   "name": "bedside table",
+   "room": "bedroom",
+   "role": "fixture",
+   "place": "replace:nightstand",
+   "mass_kg": 38.1556,
+   "mass_us": "84.1 lb",
+   "size_m": [
+    0.4633,
+    0.575,
+    0.8941
+   ],
+   "glb": "xr/table_bedside_b01.glb"
+  },
+  {
+   "id": "lamp_table_bedside_a01",
+   "name": "bedside lamp",
+   "room": "bedroom",
+   "role": "free",
+   "place": "on:nightstand",
+   "mass_kg": 0.7593,
+   "mass_us": "1.7 lb",
+   "size_m": [
+    0.1981,
+    0.1988,
+    0.3716
+   ],
+   "glb": "xr/lamp_table_bedside_a01.glb"
+  },
+  {
+   "id": "measurement_clock_alarm_a01",
+   "name": "alarm clock",
+   "room": "bedroom",
+   "role": "grab",
+   "place": "on:nightstand,bed",
+   "mass_kg": 0.3,
+   "mass_us": "10.6 oz",
+   "size_m": [
+    0.1008,
+    0.2123,
+    0.2943
+   ],
+   "glb": "xr/measurement_clock_alarm_a01.glb"
+  },
+  {
+   "id": "book_open_a01",
+   "name": "open book",
+   "room": "bedroom",
+   "role": "grab",
+   "place": "on:bed,nightstand",
+   "mass_kg": 0.2484,
+   "mass_us": "8.8 oz",
+   "size_m": [
+    0.2069,
+    0.3198,
+    0.0372
+   ],
+   "glb": "xr/book_open_a01.glb"
+  },
+  {
+   "id": "misc_notebook_a01",
+   "name": "notebook",
+   "room": "bedroom",
+   "role": "grab",
+   "place": "on:bed,nightstand",
+   "mass_kg": 0.1683,
+   "mass_us": "5.9 oz",
+   "size_m": [
+    0.2289,
+    0.17,
+    0.01
+   ],
+   "glb": "xr/misc_notebook_a01.glb"
+  },
+  {
+   "id": "storage_basket_plastic_a01",
+   "name": "plastic basket",
+   "room": "bedroom",
+   "role": "grab",
+   "place": "floor",
+   "mass_kg": 0.73,
+   "mass_us": "1.6 lb",
+   "size_m": [
+    0.254,
+    0.3321,
+    0.1321
+   ],
+   "glb": "xr/storage_basket_plastic_a01.glb"
+  },
+  {
+   "id": "TV_a01",
+   "name": "TV",
+   "room": "living",
+   "role": "decor",
+   "place": "on:tv_stand",
+   "mass_kg": 35.2989,
+   "mass_us": "77.8 lb",
+   "size_m": [
+    0.1062,
+    1.272,
+    0.7549
+   ],
+   "glb": "xr/TV_a01.glb"
+  },
+  {
+   "id": "sofa_soft_b01",
+   "name": "soft armchair",
+   "room": "living",
+   "role": "fixture",
+   "place": "replace:armchair",
+   "mass_kg": 24.2291,
+   "mass_us": "53.4 lb",
+   "size_m": [
+    0.7083,
+    0.7127,
+    0.7275
+   ],
+   "glb": "xr/sofa_soft_b01.glb"
+  },
+  {
+   "id": "furniture_table_coffee_low_a01",
+   "name": "coffee table",
+   "room": "living",
+   "role": "fixture",
+   "place": "floor",
+   "mass_kg": 52.0009,
+   "mass_us": "114.6 lb",
+   "size_m": [
+    0.6,
+    1.2,
+    0.4427
+   ],
+   "glb": "xr/furniture_table_coffee_low_a01.glb"
+  },
+  {
+   "id": "storage_shelf_basic_a01",
+   "name": "shelving unit",
+   "room": "living",
+   "role": "fixture",
+   "place": "floor",
+   "mass_kg": 60.0,
+   "mass_us": "132.3 lb",
+   "size_m": [
+    1.2674,
+    2.4943,
+    2.4227
+   ],
+   "glb": "xr/storage_shelf_basic_a01.glb"
+  },
+  {
+   "id": "decor_candle_a01",
+   "name": "candle",
+   "room": "living",
+   "role": "grab",
+   "place": "on:coffee_table,tv_stand",
+   "mass_kg": 0.3,
+   "mass_us": "10.6 oz",
+   "size_m": [
+    0.0745,
+    0.0744,
+    0.0752
+   ],
+   "glb": "xr/decor_candle_a01.glb"
+  },
+  {
+   "id": "misc_glass_vase_a01",
+   "name": "glass vase",
+   "room": "living",
+   "role": "grab",
+   "place": "on:coffee_table,tv_stand",
+   "mass_kg": 0.5,
+   "mass_us": "1.1 lb",
+   "size_m": [
+    0.0812,
+    0.0803,
+    0.2031
+   ],
+   "glb": "xr/misc_glass_vase_a01.glb"
+  },
+  {
+   "id": "magazines_stack_a01",
+   "name": "stack of magazines",
+   "room": "living",
+   "role": "grab",
+   "place": "on:coffee_table,tv_stand",
+   "mass_kg": 0.3553,
+   "mass_us": "12.5 oz",
+   "size_m": [
+    0.2114,
+    0.2563,
+    0.0545
+   ],
+   "glb": "xr/magazines_stack_a01.glb"
+  },
+  {
+   "id": "toys_rubiksCube_a01",
+   "name": "puzzle cube",
+   "room": "living",
+   "role": "grab",
+   "place": "on:coffee_table,tv_stand",
+   "mass_kg": 0.1952,
+   "mass_us": "6.9 oz",
+   "size_m": [
+    0.0719,
+    0.0719,
+    0.0719
+   ],
+   "glb": "xr/toys_rubiksCube_a01.glb"
+  },
+  {
+   "id": "box_corrugated_brown_b04",
+   "name": "cardboard box",
+   "room": "living",
+   "role": "grab",
+   "place": "floor",
+   "mass_kg": 0.2333,
+   "mass_us": "8.2 oz",
+   "size_m": [
+    0.1818,
+    0.182,
+    0.1806
+   ],
+   "glb": "xr/box_corrugated_brown_b04.glb"
+  },
+  {
+   "id": "trashCan_wheeled_green_a01",
+   "name": "wheeled trash can",
+   "room": "backyard",
+   "role": "fixture",
+   "place": "replace:outdoor_trash",
+   "mass_kg": 16.6,
+   "mass_us": "36.6 lb",
+   "size_m": [
+    0.8353,
+    0.8764,
+    1.1738
+   ],
+   "glb": "xr/trashCan_wheeled_green_a01.glb"
+  },
+  {
+   "id": "bin_waste_a01",
+   "name": "small waste bin",
+   "room": "backyard",
+   "role": "free",
+   "place": "floor",
+   "mass_kg": 4.0,
+   "mass_us": "8.8 lb",
+   "size_m": [
+    0.2377,
+    0.1802,
+    0.28
+   ],
+   "glb": "xr/bin_waste_a01.glb"
+  },
+  {
+   "id": "construction_wheelbarrow_metal_a01",
+   "name": "wheelbarrow",
+   "room": "backyard",
+   "role": "free",
+   "place": "floor",
+   "mass_kg": 24.2857,
+   "mass_us": "53.5 lb",
+   "size_m": [
+    0.6479,
+    1.716,
+    0.7223
+   ],
+   "glb": "xr/construction_wheelbarrow_metal_a01.glb"
+  },
+  {
+   "id": "equipment_hoseReel_pressureWasher_c01",
+   "name": "hose reel",
+   "room": "backyard",
+   "role": "fixture",
+   "place": "replace:hose_reel",
+   "mass_kg": 12.0,
+   "mass_us": "26.5 lb",
+   "size_m": [
+    0.4206,
+    0.3911,
+    0.6591
+   ],
+   "glb": "xr/equipment_hoseReel_pressureWasher_c01.glb"
+  },
+  {
+   "id": "misc_golfBall_a01",
+   "name": "golf ball",
+   "room": "backyard",
+   "role": "grab",
+   "place": "on:patio_table",
+   "mass_kg": 0.046,
+   "mass_us": "1.6 oz",
+   "size_m": [
+    0.0427,
+    0.0427,
+    0.0428
+   ],
+   "glb": "xr/misc_golfBall_a01.glb"
+  },
+  {
+   "id": "misc_toy_pongPaddle_ball_a01",
+   "name": "ping pong ball",
+   "room": "backyard",
+   "role": "grab",
+   "place": "on:patio_table",
+   "mass_kg": 0.0027,
+   "mass_us": "0.1 oz",
+   "size_m": [
+    0.0381,
+    0.0381,
+    0.038
+   ],
+   "glb": "xr/misc_toy_pongPaddle_ball_a01.glb"
+  }
+ ]
+}
