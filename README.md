@@ -6,8 +6,8 @@ A pack of 72 household 3D objects (kitchen items and room furniture) converted f
 
 Get `SimReady-Pack-v1.0.0.zip` from the [v1.0.0 release](https://github.com/ASINXTGENStudio/SimReady-assets/releases/tag/v1.0.0).
 
-- Size: 58,079,852 bytes
-- SHA-256: `2a03b88511f5adb1549a1142a35f06a91b439c0d4fce02c2506674ae3efcaf3f`
+- Size: 58,225,119 bytes
+- SHA-256: `21179b94462990cb77287cb13a3752f76b9e6f54584ff7945624cf19cf2cbbc9`
 
 ## Credit and license
 
