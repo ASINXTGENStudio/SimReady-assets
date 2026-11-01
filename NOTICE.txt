@@ -1,0 +1,8 @@
+SpineBot SimReady pack 1.0.0
+Contains 3D models converted from NVIDIA SimReady assets (https://huggingface.co/datasets/nvidia/simready-assets),
+licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0,
+https://creativecommons.org/licenses/by/4.0/). (c) NVIDIA Corporation.
+Changes made by ASI NXTGEN Studio for SpineBot: meshes decimated, textures downsized to JPEG albedo only, collision
+shapes recomputed (convex hulls / CoACD decomposition), masses checked (some replaced by typical real-world masses),
+small joints of hand-held things frozen, converted to MuJoCo (.msh) and glTF binary (.glb). No endorsement by NVIDIA
+is implied. Each asset's original name is kept as its id; the list is in manifest.json.
